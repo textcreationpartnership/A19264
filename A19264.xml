@@ -1,0 +1,775 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Funeral teares For the death of the Right Honorable the Earle of Deuonshire. Figured in seauen songes, whereof sixe are so set forth that the wordes may be exprest by a treble voice alone to the lute and base viole, or else that the meane part may bee added, if any shall affect more fulnesse of parts. The seauenth is made in forme of a dialogue, and can not be sung without two voyces. Inuented by Iohn Coprario.</title>
+            <author>Coperario, John, 1570 (ca.)-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19264</idno>
+            <idno type="STC">STC 5679</idno>
+            <idno type="STC">ESTC S107252</idno>
+            <idno type="EEBO-CITATION">99842954</idno>
+            <idno type="PROQUEST">99842954</idno>
+            <idno type="VID">7655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 7655)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1169:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Funeral teares For the death of the Right Honorable the Earle of Deuonshire. Figured in seauen songes, whereof sixe are so set forth that the wordes may be exprest by a treble voice alone to the lute and base viole, or else that the meane part may bee added, if any shall affect more fulnesse of parts. The seauenth is made in forme of a dialogue, and can not be sung without two voyces. Inuented by Iohn Coprario.</title>
+                  <author>Coperario, John, 1570 (ca.)-1626.</author>
+               </titleStmt>
+               <extent>[20] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn VVindet the assigne of William Barley, for Iohn Browne, and are to be sold at his shop in S. Dunstons Churchyeard in Fleet street,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-E² .</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devonshire, Charles Blount, --  Earl of, 1563-1606 --  Poetry.</term>
+               <term>Songs with lute.</term>
+               <term>Songs, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:7655:1"/>
+            <pb facs="tcp:7655:1"/>
+            <figure>
+               <figDesc>decorative border</figDesc>
+            </figure>
+            <p>FVNERAL <hi>TEARES.</hi>
+            </p>
+            <p>For the death of the Right <hi>Hono<g ref="char:EOLhyphen"/>rable the Earle of Deuonſhire.</hi>
+            </p>
+            <p>FIGVRED In ſeauen ſonges, whereof ſixe are ſo ſet <hi>forth that the wordes may be expreſt by a</hi> treble voice alone to the Lute and Baſe Viole, or elſe <hi>that the meane part may bee added, if any ſhall affect more fuineſſe of parts.</hi>
+            </p>
+            <p>THE SEAVENTH <hi>Is made in forme of a Dialogue, and ca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>not</hi> be ſung without two voyces.</p>
+            <p>Inuented by IOHN COPRARIO. <hi>Pius piè.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's device of John Windet (1584-1611) consisting of an old man receiving gifts from the clouds; two doves at his feet bearing scrolls with the words "Peace" and "Plentie"; and the motto "Thou shalt labor for" or "For thou shalt labor" (McKerrow 282)</figDesc>
+               <q>FOR THOV SHALT LABOR</q>
+               <q>PEACE</q>
+               <q>PLEN<g ref="char:EOLhyphen"/>TIE</q>
+            </figure>
+            <p>
+               <hi>AT LONDON</hi> Printed by <hi>Iohn VVindet</hi> the Aſſigne of <hi>Will<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am Barley,</hi> for <hi>Iohn Browne,</hi> and are to be ſold at his ſhop in S. Dunſtons <hi>Churchyeard in Fleet ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reet.</hi> 1606.</p>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb facs="tcp:7655:2"/>
+            <lg>
+               <l>
+                  <g ref="char:V">Ʋ</g>no Sol Mountioie tuus contentus ocello eſt,</l>
+               <l>Cuncta tamen cernit, nihil eſt oculatius illo.</l>
+               <l>Omnia qui vt videat magnus quae continet orbis,</l>
+               <l>Cernere te potuit toto nil pulchrius orbe.</l>
+            </lg>
+            <lg>
+               <l>Iam tuus ah periit pulcher Sol, dulcis ocellus</l>
+               <l>Penelope, periit nec tamen ille tibi.</l>
+               <l>Qui Mortalis inexplendo te amplexus amore eſt,</l>
+               <l>Quid ni Coeleſtis te quoque factus amet?</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:7655:2"/>
+            <head>To the Ayre</head>
+            <lg>
+               <l>EV'n to thy ſweetneſſe pure benigne, kind Ayre</l>
+               <l>That firſt embrac't theſe teares, theſe I preſent.</l>
+               <l>Know them, though now tranſform'd from Chriſtall faire</l>
+               <l>Th' appeare to thee in Muſicall ornament:</l>
+               <l>Free paſſage to melodious pearcing ſounds</l>
+               <l>Thine open boſome yeelds: greefe owes to thee</l>
+               <l>Her groanes, and ſighes: through thy ſwift-healed wounds</l>
+               <l>Her ſhrikes are ſhot, and thine her clamours be.</l>
+               <l>Receiue then chearefull Ayre theſe ſad laments,</l>
+               <l>Though thou art but one Element, and ſhe</l>
+               <l>That owes them, of all foure the quinteſſence,</l>
+               <l>The Starre of honor, and the ſphere of beautie.</l>
+               <l>Goe, heare her ſing theſe farewels, thou wilt weepe,</l>
+               <l>And moueleſſe euer in thy regions ſleepe.</l>
+            </lg>
+            <lg>
+               <l>Sing Lady, ſing thy Deu'nſhires funerals,</l>
+               <l>And charme the Ayre with thy delightfull voyce,</l>
+               <l>Let lighter ſpirits grace their Madrigals,</l>
+               <l>Sorrow doth in the ſaddeſt notes reioyce.</l>
+               <l>Faireſt of Ladies ſince theſe Songs are thine,</l>
+               <l>Now make them as thou art thy ſelfe, deuine.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>The deuoted ſeruant of</hi> true nobleneſſe. <hi>Iohn Coprario.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:7655:3"/>
+            <head>In honorable memory of the Right noble the Earle of Deuonſhire <hi>late deceaſed.</hi>
+            </head>
+            <lg>
+               <l>NOe ſooner had the Fates pale Miniſter</l>
+               <l>At th' high commaund of ſterne Neceſſitie</l>
+               <l>Seazd the terreſtriall part of Deuonſhire,</l>
+               <l>And rendred his free Soule t' Etern<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tie:</l>
+               <l>But loe th' imperfect broode of fruitfull Fame</l>
+               <l>(That ſwarming thicke as atom is buze in th' ayre)</l>
+               <l>Ligh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> winged Rumours in right of their Dame</l>
+               <l>Claimed great Mountroyes name, with ſwift repaire</l>
+               <l>Heauing it vp to Fames high Couſiſtorie,</l>
+               <l>Where ſhe with doome impartiall regiſter</l>
+               <l>All names t' Eternall fame, or infamie,</l>
+               <l>And in her finall iudgement neuer errs.</l>
+               <l>You ſacred ſeede of Mnemoſine pardon me</l>
+               <l>If in this ſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>daine rapture I reueale</l>
+               <l>Miſt'rie, which only rauiſht ſprights can ſee,</l>
+               <l>And enuious time did till this houre conceale.</l>
+               <l>In Chriſtal chaire when ſtarre-like ſhining Fame</l>
+               <l>Her ſtate had plac't, ſtrait with confuſed noyſe</l>
+               <l>The thronging miſcreates brought in Deu'nſhires name,</l>
+               <l>Some figuring lamentations, others ioyes:</l>
+               <l>Some wept, ſome ſobd, ſome howld, ſome laught, ſome ſmild,</l>
+               <l>And as their paſſions ſtrange, and different were,</l>
+               <l>So were their ſhapes, ſuch heapes were neuer pil'd</l>
+               <l>Of Monſtrous heades as now conſorted here.</l>
+               <l>For ſome like Apes peere out, like foxes ſome,</l>
+               <l>Many like Aſſes, Wolfes, and Oxen ſeem'd,</l>
+               <l>Like hiſſing Serpents, and fell Hydras ſome,</l>
+               <l>Rhinoceroes ſome by their arm'd ſnowtes I deem'd,</l>
+               <l>Others like Crocodiles hang their ſlie heads downe:</l>
+               <l>But infinite of humane forme appeare</l>
+               <l>Whoſe ſimple lookes were voide of ſmile or frowne,</l>
+               <l>Yet ſomewhat ſad they ſhewd like skies vncleare:</l>
+               <l>In this confuſion the great Regiſtreſſe</l>
+               <l>Commaunding ſilence ſeu'rallie gaue leaue</l>
+               <l>To all reportes, and with milde ſoberneſſe</l>
+               <l>Both partiall, and impartiall did receiue.</l>
+               <l>Firſt as accuſers ſpake ths buſie Ape,</l>
+               <l>The enuious bould Wolfe, and the ſpitefull ſnake,</l>
+               <l>And diuers in the braying Aſſes ſhape,</l>
+               <l>But all their malice did one period make.</l>
+               <l>Deu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſhire did loue<g ref="char:punc">▪</g> loue was his errour made,</l>
+               <l>That only gainſt his vertues was oppoſ'd,</l>
+               <l>As if for that his honoured name ſhould fade,</l>
+               <l>Whoſe breſt both vertue, and true loue encloſ'd.</l>
+               <pb facs="tcp:7655:3"/>
+               <l>But now riſe high my ſpright, while I vnfould</l>
+               <l>What th' humane ſpeakers in defence replyed:</l>
+               <l>To latter ages let this tale be told</l>
+               <l>Which is by fame for euer verified.</l>
+               <l>Did Mountioy loue? and did not Hercules</l>
+               <l>Feele beauties flame, and couch him vnderneath</l>
+               <l>The winges of Cupid? or did ere the leſſe</l>
+               <l>His ſacred browes deſerue a victours wreath?</l>
+               <l>Did not he free the trembling world from feare,</l>
+               <l>And dire confuſion? who elſe could ſubdue</l>
+               <l>Monſters that innocents did ſpoyle, and teare,</l>
+               <l>Or Saturnes auncient goulden peace renue?</l>
+               <l>Did Mountioy loue? and did not Mountioyes ſword</l>
+               <l>When he marcht arm'd with pallace dreadfull helme</l>
+               <l>The rough vnquiet Iriſh rebels curbe?</l>
+               <l>And the inuading Spaniard ouerwhelme?</l>
+               <l>Lou'd he? and did not he nathleſſe aſſiſt</l>
+               <l>Great Brittaines counſils, and in ſecret cells</l>
+               <l>The Muſes viſite? and alone vntwiſt</l>
+               <l>The riddles of deepe Philoſophick ſpels?</l>
+               <l>Did Deu'nſhire loue? and lou'd not Deu'nſhire ſo</l>
+               <l>As if all beautie had for him beene fram'd?</l>
+               <l>For beautie more adorn'd no age ſhall know</l>
+               <l>Then hers whom he his owne for euer nam'd.</l>
+               <l>Let then baſe enuie breake, fond rumour ſleepe,</l>
+               <l>Blacke malice turne to doue-white charitie,</l>
+               <l>Let Deu'nſhire triumph, and his honor keepe</l>
+               <l>Immune, and cleare from darke mortaliie.</l>
+               <l>This ſpoken, Fame charg'd Zepherus to ſound</l>
+               <l>His goulden trumpet, after whoſe ſmooth blaſt</l>
+               <l>Theſe words ſhe made from earth to heau'n rebound,</l>
+               <l>Braue Mountioyes glory ſhall for euer laſt.</l>
+               <l>Then forth was brought aboſſ't booke deſtined</l>
+               <l>For Kings, and Heroes, where with liquid gould</l>
+               <l>Deceaſed Deu'nſhires name ſhe regiſtred</l>
+               <l>In charmed letters that can nere grow old.</l>
+            </lg>
+            <lg>
+               <l>Omnia vincit Amor, &amp; nos cedamus Amori,</l>
+               <l>Scripſit; cuius erant neſcia ſcripta mori.</l>
+               <l>Annuit huic fortis Mountioius, victus Amori</l>
+               <l>Ceſsit; cuius erunt neſcia facta mori.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="songs">
+            <pb facs="tcp:7655:4"/>
+            <div n="1" type="song">
+               <div type="part">
+                  <head>I. CANTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">O</seg>Ft thou haſt with gree╌die eare,</l>
+                     <l>drunke my notes &amp; words of pleaſure</l>
+                     <l>In af╌fections equall mea╌</l>
+                     <l>ſure now my ſonges of ſorrow heare,</l>
+                     <l>ſince from thee my greefes do grow</l>
+                     <l>whome a╌liue I priſde ſo deare.</l>
+                     <l>The more my ioy the more my ioy the more the more my woe.</l>
+                  </lg>
+                  <lg>
+                     <l>Oft thou haſt with greedy care,</l>
+                     <l>Drunke my notes and wordes of pleaſures</l>
+                     <l>In affections equall meaſure,</l>
+                     <l>Now my ſongs of ſorrow heare.</l>
+                     <l>Since from thee my griefes doe grow</l>
+                     <l>Whome aliue I priſ'd ſo deare:</l>
+                     <l>The more my ioy, the more my woe.</l>
+                  </lg>
+                  <lg>
+                     <l n="2">2 Muſicke though it ſweetens paine</l>
+                     <l>Yet no whit empaires lamenting:</l>
+                     <l>But in paſſions like conſenting</l>
+                     <l>Makes them conſtant that complaine:</l>
+                     <l>And enchantes their fancies ſo,</l>
+                     <l>That all comforts they diſdaine,</l>
+                     <l>And flie from ioy to dwell with woe.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:7655:4"/>
+                  <head>I. BASSO.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>I. ALTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg>Ft thou haſt with greedy care with greedy care</l>
+                     <l>drunke my notes and wordes of plea╌ſure:</l>
+                     <l>in affections equall mea╌ſure,</l>
+                     <l>now my ſonges now my ſongs of ſorrow ſorrow heare,</l>
+                     <l>ſince from thee my greefes doe grow,</l>
+                     <l>whome aliue I priſ'de ſo deare:</l>
+                     <l>the more my ioy the more my ioy, the more my woe, the more my woe.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="2" type="song">
+               <pb facs="tcp:7655:5"/>
+               <div type="part">
+                  <head>II. CANTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> ſweete flower, O ſweet flower too quicklie fa╌ding,</l>
+                     <l>like a winter ſun╌ſhine day:</l>
+                     <l>poore pilgrim tyr'd poore pilgrim tir'd in the mid╌way</l>
+                     <l>like the earth it ſelfe halfe ſhading</l>
+                     <l>So thy picture ſo thy picture ſhewes to me,</l>
+                     <l>but onely the one halfe of thee.</l>
+                  </lg>
+                  <lg>
+                     <l>O ſweete flower too quicklie fading,</l>
+                     <l>Like a Winter ſunſhine day:</l>
+                     <l>Poore pilgrim tir'd in the midway,</l>
+                     <l>Like the Earth it ſelfe halfe ſhading.</l>
+                     <l>So thy picture ſhewes to mee,</l>
+                     <l>But onely the one halfe of thee.</l>
+                  </lg>
+                  <lg>
+                     <l n="2">2 O deare Ioy too ſwiftly flying</l>
+                     <l>From thy loues enchanted eyes:</l>
+                     <l>Proud glorie ſpread through the vaſt skies,</l>
+                     <l>Earth of more then earth enuying.</l>
+                     <l>O how wondrous hadſt thou been,</l>
+                     <l>Had but the world thy whole life ſeene.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:7655:5"/>
+                  <head>II. BASSO.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>II. ALTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Sweete flower, O ſweete flower too quickly fa╌ding,</l>
+                     <l>like a Winter Sunne╌ſhine day,</l>
+                     <l>poore Pilgrime tyr'de in the midde waye</l>
+                     <l>like the earth it ſelf, it ſelfe, half ſha╌ding╌</l>
+                     <l>So thy picture ſhewes to mee onelie the one halfe of thee.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="3" type="song">
+               <pb facs="tcp:7655:6"/>
+               <div type="part">
+                  <head>III. CANTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> O th'un╌ſure hopes of men the brittle ſtate</l>
+                     <l>the vaine conte<g ref="char:cmbAbbrStroke">̄</g>tio<g ref="char:cmbAbbrStroke">̄</g>s that vnlucki╌lie</l>
+                     <l>oft in midſt of the race oft in midſt of the race fall ru╌inate.</l>
+                     <l>And in their courſe long ouer╌whelmed bee,</l>
+                     <l>and ſwal╌low'd vp, ere they the port could ſee.</l>
+                  </lg>
+                  <lg>
+                     <l>O th'unſure hopes of men! the brittle ſtate!</l>
+                     <l>The vaine contentions that vnluckilie,</l>
+                     <l>Oft in midſt of the race fall ruinate,</l>
+                     <l>And in their courſe long ouerwhelmed be,</l>
+                     <l>And ſwallow'd vp ere they the port could ſee.</l>
+                  </lg>
+                  <lg>
+                     <l n="2">2 O womens fruitleſſe loue! vnquiet ſtate!</l>
+                     <l>Too deare affections, that deſpightfully,</l>
+                     <l>Ev'n in their height of bliſſe proue deſolate!</l>
+                     <l>And often fall farre from all hope of ioy.</l>
+                     <l>Ere they haue time to dreame on their annoy.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:7655:6"/>
+                  <head>III. BASSO.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>III. ALTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Th' unſure hopes of men, the brittle ſtate,</l>
+                     <l>the vaine contentions that vn╌lucki╌lie,</l>
+                     <l>oft in midſt of the race, oft in midſt of the race fall ruinate.</l>
+                     <l>And in their courſe long ouerwhelmed bee,</l>
+                     <l>and ſwallow'd vp ere they, ere they the porte could ſee.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="4" type="song">
+               <pb facs="tcp:7655:7"/>
+               <div type="part">
+                  <head>IIII. CANTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> IN darkeneſſe let me dwel, the ground ſhall ſorrow, ſorrow be</l>
+                     <l>the roofe de╌ſpaire to barre all chereful light from mee</l>
+                     <l>the walles of marble blacke that moiſtned ſtil ſhal weepe,</l>
+                     <l>my muſicke my muſicke helliſh iarring ſoundes to baniſh friendlie ſleep.</l>
+                     <l>Thus wedded to my woes, and bedded in my tombe</l>
+                     <l>O let mee dying liue, O let mee dying liue, O let me dying liue till death doth come till death doth come.</l>
+                  </lg>
+                  <lg>
+                     <l>In darkneſſe let me dwell, the ground ſhall ſorrow be,</l>
+                     <l>The roofe deſpaire to barre all chearefull light from me,</l>
+                     <l>The walles of marble black that moiſtned ſtil ſhall weepe,</l>
+                     <l>My muſicke helliſh iarring ſounds to baniſh frendly ſleepe.</l>
+                     <l>Thus wedded to my woes, and bedded in my tombe,</l>
+                     <l>O let me dying liue till death doth come.</l>
+                  </lg>
+                  <lg>
+                     <l>My dainties griefe ſhall be, and teares my poiſned wine,</l>
+                     <l>My ſighes the aire, throgh which my panting hart ſhall pine</l>
+                     <l>My robes my mind ſhall ſute exceeding blackeſt night,</l>
+                     <l>My ſtudy ſhall be tragicke thoughtes ſad fancy to delight.</l>
+                     <l>Pale Ghoſts and frightful ſhades ſhal my acquaintance</l>
+                     <l>O thus my haples ioy I haſte to the<g ref="char:cmbAbbrStroke">̄</g>e.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:7655:7"/>
+                  <head>IIII. BASSO.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>IIII. ALTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N darkneſſe let me dwell, the ground the ground ſhall ſorrow be,</l>
+                     <l>The roofe deſpaire to barre all chearefull light from me, from me,</l>
+                     <l>The walles of mar╌ble black that moi╌ſtned ſtil ſhall weepe,</l>
+                     <l>My muſicke helliſh iarring ſounds to baniſh frendly ſleepe.</l>
+                     <l>Thus wed╌ded to my woes, and bedded in my tombe, and bedded in my tombe,</l>
+                     <l>O let me O let mee dying liue, dying liue, O let me dying liue, till death doth come, till death doth come.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="5" type="part">
+               <pb facs="tcp:7655:8"/>
+               <div type="part">
+                  <head>V. CANTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y ioy is dead and cannot be re╌uiu'de,</l>
+                     <l>fled is my ioy And neuer may returne.</l>
+                     <l>both of my ioy and of my ſelfe depriu'de,</l>
+                     <l>far from all ioy I ſing and ſinging mourn.</l>
+                     <l>O let no tender heart, O let no tender hart or gentle eare</l>
+                     <l>partake my paſſions or my plaininges heare.</l>
+                  </lg>
+                  <lg>
+                     <l>My ioy is dead, and cannot be reuiu'de,</l>
+                     <l>Fled is my ioy, and neuer may returne:</l>
+                     <l>Both of my ioy, and of my ſelfe depriu'de</l>
+                     <l>Far from all ioy I ſing, and ſinging mourne.</l>
+                     <l>O let no tender hart, or gentle eare</l>
+                     <l>Partake my paſſions, or my plainings heare.</l>
+                  </lg>
+                  <lg>
+                     <l n="2">2 Rude flintie breaſtes that neuer felt remorſe,</l>
+                     <l>Hard craggy rocks that death and ruine loue,</l>
+                     <l>Thoſe onely thoſe my paſſions ſhall enforce,</l>
+                     <l>Beyond their kind, and to compaſſion moue.</l>
+                     <l>My griefe ſhall wonders worke, for he did ſo</l>
+                     <l>That cauſde my ſorrowes, and theſe teares doth owe.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:7655:8"/>
+                  <head>V. BASSO.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>V. ALTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Y ioy is dead, is dead, and cannot be reuiu'de,</l>
+                     <l>fled is my ioy, and neuer may re╌turne,</l>
+                     <l>both of my ioy, and of my ſelfe depriu'de Farre from all ioy I ſing, and ſinging mourne.</l>
+                     <l>O let no ten╌der hart, O let no tender hart or gentle eare, or gentle eare</l>
+                     <l>par╌take my paſſions, or my play╌ninges heare.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="6" type="song">
+               <pb facs="tcp:7655:9"/>
+               <div type="part">
+                  <head>VI. CANTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Eceitfull fancy deceitfull fancy why de╌udſt thou mee,</l>
+                     <l>the deade a╌liue preſenting?</l>
+                     <l>My ioies faire Image caru'd in ſhades I ſee,</l>
+                     <l>O falſe O falſe yet ſweet contenting?</l>
+                     <l>Why art not thou a ſubſtance like to mee,</l>
+                     <l>or I a ſhade to vaniſh hence with thee?</l>
+                  </lg>
+                  <lg>
+                     <l>Deceitfull fancy why deludſt thou me,</l>
+                     <l>The dead a liue preſenting?</l>
+                     <l>My ioyes faire image caru'd in ſhades I ſee,</l>
+                     <l>O falſe! yet ſweet contenting?</l>
+                     <l>Why art not thou a ſubſtance like to me?</l>
+                     <l>Or I a ſha<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e to vaniſh hence with thee?</l>
+                  </lg>
+                  <lg>
+                     <l n="2">2 Stay gentle obiect, my ſence ſtill deceiue,</l>
+                     <l>With this thy kind eluſion:</l>
+                     <l>I die throgh madnes if my thoughts you leaue</l>
+                     <l>O ſtrange? yet ſweet confuſion?</l>
+                     <l>Poore bliſſeleſſe hatte that feeles ſuch deepe annoy,</l>
+                     <l>Only to looſe the ſhadowe of thy ioy.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:7655:9"/>
+                  <head>VI. BASSO.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>VI. ALTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Eceitfull fancy, deceitfull fancy, why de╌lud'ſt thou mee,</l>
+                     <l>The dead aliue preſen<g ref="char:EOLhyphen"/>ting:</l>
+                     <l>My ioyes faire image caru'd in ſhades I ſee,</l>
+                     <l>O falſe, O falſe, yet ſweete conten╌ting.</l>
+                     <l>Why art not thou a ſubſtance like to mee,</l>
+                     <l>or I a ſhade to vaniſh hence with thee.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="7" type="song">
+               <pb facs="tcp:7655:10"/>
+               <div type="part">
+                  <head>VII. CANTO A Dialogue.</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>FOe of mankind, why murdreſt thou my loue</l>
+                     <l>Oh where? Oh where?</l>
+                     <l>poore wretched life that onely liues in name.</l>
+                     <l>That is true fame that is true fame which liuing men enioy.</l>
+                     <l>liue euer, liue euer throgh thy meri╌ted renowne, renowne</l>
+                     <l>faire ſpirit ſhining, faire ſpirit ſhining in thy ſtarry crowne, thy ſtarry crown.</l>
+                  </lg>
+                  <sp>
+                     <speaker>Canto.</speaker>
+                     <p>Foe of mankind why murdereſt thou my loue?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alto.</speaker>
+                     <p>Forbeare he liues.</p>
+                  </sp>
+                  <sp>
+                     <speaker>C.</speaker>
+                     <p>Oh where?</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>In heauen aboue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>C.</speaker>
+                     <p>Poore wretched life that onely liues in name.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>Man is not fleſh, but ſoule, all life is fame:</p>
+                  </sp>
+                  <sp>
+                     <speaker>C.</speaker>
+                     <p>That is true fame which liuing men enioy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A.</speaker>
+                     <p>That is true life, which death cannot deſtroy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chorus.</speaker>
+                     <lg>
+                        <l>Liue euer through thy merited renowne.</l>
+                        <l>Faire ſpirit ſhining in thy ſtarry crowne.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:7655:10"/>
+                  <head>VII. BASSO.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>VII. ALTO</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Or beare hee liues in heau'n aboue</l>
+                     <l>Man is not fleſh but ſoule, all life is fame:</l>
+                     <l>That is true life, that death cannot deſtroy</l>
+                     <l>liue euer, liue euer through thy me╌ri╌ted renowne,</l>
+                     <l>faire ſpirite ſhining, faire ſpirite ſhining, in thy ſtarry crowne,</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:7655:11"/>
+            <lg>
+               <l>TIs true, that whom the Italian<note n="*" place="margin">Tarantula</note> Spider ſtinges</l>
+               <l>He ſings, or laughs, or daunces till he dies,</l>
+               <l>Or ſpends his ſhort time in ſuch idle things</l>
+               <l>As the ſeuerer ſort call vanities:</l>
+               <l>Muſicke alone this fury can releaſe,</l>
+               <l>This venomous rancour that the fleſh doth eate</l>
+               <l>Like enuie which in death doth ſeldome ceaſe</l>
+               <l>To feede vpon the honours of the great.</l>
+               <l>Well haue we toyld in proſperous harmonie</l>
+               <l>If we the enuy poyſned wounds doe cure</l>
+               <l>Of ſpitefull adder-toongd hypocriſie</l>
+               <l>That ſpeakes waſht wordes, but works darke deeds impure.</l>
+               <l>If ſuch proue paſt recure, ſuffice it then</l>
+               <l>We ſong not to brute beaſt, but humane men.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <head>A Table of the Songs contained in this Booke.</head>
+            <list>
+               <item>1. Oft thou haſt</item>
+               <item>2. O ſweete flower.</item>
+               <item>3. O the vnſure hopes.</item>
+               <item>4. In darkeneſſe let me dwell.</item>
+               <item>5. My ioy is dead.</item>
+               <item>6. Deceitfull fancie.</item>
+               <item>7. Foe of Mankind.</item>
+            </list>
+            <epigraph>
+               <q xml:lang="lat">
+                  <lg>
+                     <l>Quid mortuos mordes canis? nihil retro</l>
+                     <l>Cernis, neque vides manticae quod in tergo eſt.</l>
+                  </lg>
+               </q>
+               <q>
+                  <lg>
+                     <l>The dead why bit'ſt thou dogge? th'art backward blinde,</l>
+                     <l>And doeſt not ſee the bagge thou bear'ſt behind.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <pb facs="tcp:7655:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
